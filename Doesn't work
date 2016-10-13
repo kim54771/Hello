@@ -1,0 +1,19 @@
+#include <iostream>
+
+
+int main(){
+  int16_t How, good;
+  
+  std::cout<<"Hello Saea!\n";
+ 
+  std::cout<<"How are you?\n";
+  std::cin>>How;
+  if (How==good) {
+      std::cout<<"Good! What book are you reading now?";
+  } else {
+      std::cout<<"Why don't you feel good?";
+  }
+  
+   
+   
+}
